@@ -3,7 +3,7 @@
   "description": "Installer package for Theme Ultimate.",
   "type": "contao-provider",
   "license": "proprietary",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "require": {
     "theme-ultimate/repository-license": "^1.0",
     "theme-ultimate/theme-ultimate": "^4.0"
