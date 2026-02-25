@@ -7,3 +7,5 @@ It does not contain Theme Ultimate source code.
 Requirements:
 - theme-ultimate/repository-license (provided by your customer license ZIP)
 - theme-ultimate/theme-ultimate from the private Theme Ultimate repository
+- madeyourday/contao-rocksolid-custom-elements
+- oveleon/contao-cookiebar
