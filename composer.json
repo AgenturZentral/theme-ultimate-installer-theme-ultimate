@@ -3,7 +3,7 @@
     "description":  "Installer package for Theme Ultimate.",
     "type":  "contao-provider",
     "license":  "proprietary",
-    "version":  "4.0.1",
+    "version":  "4.0.2",
     "homepage":  "https://www.theme-ultimate.de",
     "keywords":  [
                      "theme-ultimate",
@@ -24,7 +24,7 @@
                 },
     "require":  {
                     "theme-ultimate/repository-license":  "^1.0",
-                    "theme-ultimate/theme-ultimate":  "^4.0.1",
+                    "theme-ultimate/theme-ultimate":  "^4.0.2",
                     "madeyourday/contao-rocksolid-custom-elements":  "^2.0",
                     "oveleon/contao-cookiebar":  "^2.2"
                 }
