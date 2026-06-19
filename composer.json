@@ -3,7 +3,6 @@
     "description":  "Installer package for Theme Ultimate.",
     "type":  "contao-provider",
     "license":  "proprietary",
-    "version":  "4.1.4",
     "homepage":  "https://www.theme-ultimate.de",
     "keywords":  [
                      "theme-ultimate",
