@@ -23,7 +23,7 @@
                 },
     "require":  {
                     "theme-ultimate/repository-license":  "^1.0",
-                    "theme-ultimate/theme-ultimate":  "^4.3.2",
+                    "theme-ultimate/theme-ultimate":  "^4.3.3",
                     "oveleon/contao-cookiebar":  "^2.2"
                 }
 }
